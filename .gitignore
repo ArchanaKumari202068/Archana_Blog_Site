@@ -1,0 +1,7 @@
+./pipfile
+./db.sqlite
+.env
+
+__pycache__
+
+*.sqlite3
